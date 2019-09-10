@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 The biggest challenge that I have encountered is understanding and getting a hang of recycler view. The learning curve was
 steep but it was fun in the end. 
 
